@@ -24,7 +24,7 @@
   <string name="forgerock_auth_service" translatable="false">Login</string>
 
     <!-- WebAuthn Biometric -->
-  <string name="asset_statements" translatable="false"> [{"include": "https://verbena-quintessential-servant.glitch.me/.well-known/assetlinks.json"}] </string>
+  <string name="asset_statements" translatable="false"> [{"include": "https://myinfogram.infogram.co.id/.well-known/assetlinks.json"}] </string>
 
 
 </resources>
