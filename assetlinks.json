@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "web",
-      "site": "https://raw.githubusercontent.com"
+      "site": "https://izard.tech/"
     }
   },
   {
@@ -15,7 +15,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.forgerockdemo",
+      "package_name": "id.co.sistema.forgerock",
       "sha256_cert_fingerprints": [
         "55:4D:61:EA:2D:12:1D:DE:93:CA:AF:F2:D4:11:DA:A0:5B:48:9C:70:CE:63:DC:A4:A3:C2:F8:F6:5F:36:6D:E8"
       ]
